@@ -1,0 +1,67 @@
+* {
+    text-align: center;
+  }
+  
+  body {
+    font-family: "Roboto Mono", monospace;
+    min-height:800px;
+    background-image: 
+    url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhdqwalls.com%2Fwallpapers%2Ffifa-world-cup-russia-2018-4k-5k-8r.jpg&f=1&nofb=1");
+    background-color: black;
+    background-size: 111%;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container { 
+    width: 200px;
+    text-align: center;
+    padding:20px;
+    margin-left: 470px;
+    margin-right: 600px;
+  }
+  
+  .page-title {
+    width: 430px;
+    padding: 0 0 5px;
+    border: 2px solid;
+    border-color:rgb(13, 194, 67);
+    border-radius: 15px;
+    color: rgba(189, 0, 189, 0.863);
+    margin: 0 0 5px;
+  }
+  
+  .page-subtitle {
+    color: crimson;
+    margin-top: 5px;
+  }
+  
+  .page-logo {
+    width: 200px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+
+  .container2{
+    text-align: center;
+    padding:20px;
+  }
+  
+  table {
+    border: 2px solid rgb(13, 194, 67);
+    border-collapse: collapse;
+    border-radius: 15px solid;
+  }
+    
+  th,
+  tr,
+  td {
+    border: solid 2px rgb(13, 194, 67);
+    color: rgb(0, 0, 0);
+  }
+  
